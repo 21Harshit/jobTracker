@@ -7,7 +7,7 @@ Have you ever struggled to keep track of all the job applications you’ve submi
 
 1- Download this repo to your pc.
 
-2- Open two terminal in the said prj directory.
+2- Open two terminal windows in the said prj directory.
 
 3(a)- for frontened-
 cd client
