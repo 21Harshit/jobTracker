@@ -1,3 +1,4 @@
+![Screenshot 2024-07-07 010945](https://github.com/21Harshit/jobTracker/assets/102530537/21e11b35-a604-47cf-82bc-a42e7e2e5440)
 
 #About
 
