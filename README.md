@@ -1,8 +1,7 @@
 
 #About
 
-Do you also forgets about the application filed by you in different companies during to find the first breakthrough in your career choice!? 
-so here we have a personalised responsive website made in MERN+Vite so that you can record all your previous application in companies and can modify or delete accordingly.
+Have you ever struggled to keep track of all the job applications you’ve submitted while searching for your first breakthrough in your career? Our personalized, responsive website built with the MERN stack and Vite is designed to help you easily record, modify, and delete your previous applications in various companies, ensuring you stay organized and efficient in your job hunt.
 
 #how to start the project
 
