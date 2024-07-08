@@ -1,6 +1,3 @@
-![Screenshot 2024-07-07 010909](https://github.com/21Harshit/jobTracker/assets/102530537/8ccd4a83-f1a7-4427-87b8-1aa15d7f78ad)
-![Screenshot 2024-07-07 010809](https://github.com/21Harshit/jobTracker/assets/102530537/769da7ee-b968-441f-befd-9ae6d8ffb1c5)
-![Screenshot 2024-07-07 010945](https://github.com/21Harshit/jobTracker/assets/102530537/21e11b35-a604-47cf-82bc-a42e7e2e5440)
 
 #About
 
@@ -22,3 +19,8 @@ cd server
 node --env-file=config.env server
 
 Yes, your website is ready for you to store your said records. 
+
+
+![Screenshot 2024-07-07 010909](https://github.com/21Harshit/jobTracker/assets/102530537/8ccd4a83-f1a7-4427-87b8-1aa15d7f78ad)
+![Screenshot 2024-07-07 010809](https://github.com/21Harshit/jobTracker/assets/102530537/769da7ee-b968-441f-befd-9ae6d8ffb1c5)
+![Screenshot 2024-07-07 010945](https://github.com/21Harshit/jobTracker/assets/102530537/21e11b35-a604-47cf-82bc-a42e7e2e5440)
