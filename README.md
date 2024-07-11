@@ -11,11 +11,14 @@ Have you ever struggled to keep track of all the job applications you’ve submi
 
 3(a)- for frontened-
 cd client
+
 npm install
+
 npm run dev
 
 3(b)- for backened-
 cd server
+
 node --env-file=config.env server
 
 Yes, your website is ready for you to store your said records. 
