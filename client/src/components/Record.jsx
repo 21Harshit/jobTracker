@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-
+import photo from "../assets/form.jpeg"
 
 export default function Record() {
   const [form, setForm] = useState({
@@ -107,7 +107,7 @@ export default function Record() {
               share. */}
               A best place to record your history of application in various companies for having regular checks.
             </p>
-            <img src="https://assets.entrepreneur.com/content/3x2/2000/20150429160658-website-traffic.jpeg" className="px-20 pt-10 "></img>
+            <img src={photo} className="px-20 pt-10 "></img>
           </div>
 
           <div className="grid  max-w-2xl grid-cols-1 gap-x-6 gap-y-8 ">
